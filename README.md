@@ -17,3 +17,12 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+3. option 설명
+
+   ```
+   --1 : parent_id 가 같은 요소들을 같은 색으로 시각화
+   --2 : a group , subgroup , parent group 을 시각화
+   --3 : pattern_id 가 같은 subgroup 을 시각화
+   ```
+
